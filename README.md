@@ -40,6 +40,7 @@ _TO DO_
 ### Change log
 * 2025 - Naman made it harder
 * 2026 - William made it easier again
+* 2026 - Caitlin made extra lives spawn from some bricks when you break them
 
 ---
 
